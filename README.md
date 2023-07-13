@@ -12,8 +12,8 @@ PyCitySchools_Example.ipynb is untouched starter code with diagrams for comparis
 The Images folder can be ignored for this module as no dataframes or graphs were required to be captured and saved. 
 
 PyCitySchools folder will be the main bulk of the work for this module. Inside it contains a resources folder and another ipynb file
-  # The Reasources folder will contain both the schools.csv file and students.csv that house the data we read into our code for analysis
-  # The PyCitySchools_starter.ipynb is the main code for this project
-     # The paths are set relative so a colne of this repository will properly allow any user to run this code
-     # This code is set to run on jupyter lab
-     # Any questions on how the code was written should be explained in the written analysis listed prior
+  #The Reasources folder will contain both the schools.csv file and students.csv that house the data we read into our code for analysis
+  #The PyCitySchools_starter.ipynb is the main code for this project
+     #The paths are set relative so a colne of this repository will properly allow any user to run this code
+     #This code is set to run on jupyter lab
+     #Any questions on how the code was written should be explained in the written analysis listed prior
